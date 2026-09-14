@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>plunews.com</title>
+    <link>https://plunews.com/blog/</link>
+    <description>Latest posts from plunews.com</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Sep 2026 17:41:44 GMT</lastBuildDate>
+    <atom:link href="https://plunews.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>From Pitch to Fortune: The Inspiring Journey of the Richest Footballer</title>
+      <link>https://plunews.com/football-wealth/richest-footballer-net-worth.html</link>
+      <guid isPermaLink="true">https://plunews.com/football-wealth/richest-footballer-net-worth.html</guid>
+      <pubDate>Sun, 13 Sep 2026 17:41:44 GMT</pubDate>
+      <description>Why “Richest Footballer” Means Different Things Depending on What You Measure
+
+
+The phrase “richest footballer” gets thrown around so casually that it’s almost meaningless unless you define your terms. Over the years, I’ve watched debates twist in circles because people conflate net worth, annual salary, and career earnings. If you’re just starting out, this is the first pitfall to sidestep.
+
+
+Net worth adds up everything a player owns (cash, homes, investments, businesses) and subtracts debts.</description>
+      <category>Football Wealth</category>
+      <author>Shahidul</author>
+    </item>
+
+    <item>
+      <title>Coming soon</title>
+      <link>https://plunews.com/news/coming-soon.html</link>
+      <guid isPermaLink="true">https://plunews.com/news/coming-soon.html</guid>
+      <pubDate>Thu, 10 Sep 2026 07:35:42 GMT</pubDate>
+      <description>This is Ghost Plu News, a brand new site by Shahidul that&apos;s just getting started. Things will be up and running here shortly, but you can subscribe in the meantime if you&apos;d like to stay up to date and receive emails when new content is published!</description>
+      <category>News</category>
+      <author>Shahidul</author>
+    </item>
+  </channel>
+</rss>
