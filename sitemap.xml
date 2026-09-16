@@ -19,6 +19,62 @@
   </url>
 
   <url>
+    <loc>https://plunews.com/category/disability-awareness/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/dwarfism/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/inspiration/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/biographies/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/comics-animation/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/comic-creators/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/animation/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/art-insights/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://plunews.com/category/digital-marketing/</loc>
     
     <changefreq>weekly</changefreq>
@@ -240,6 +296,90 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/disability-awareness/list-people-dwarfism.html</loc>
+    <lastmod>2026-09-16T03:45:10.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/comics-animation/kazimieras-prapuolenis-awards-recognition.html</loc>
+    <lastmod>2026-09-16T03:38:22.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/comics-animation/artistic-style-influences-kazimieras-prapuolenis.html</loc>
+    <lastmod>2026-09-16T03:38:11.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/comics-animation/kazimieras-prapuolenis-major-works.html</loc>
+    <lastmod>2026-09-16T03:36:18.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/comics-animation/early-life-education-kazimieras-prapuolenis.html</loc>
+    <lastmod>2026-09-16T03:29:48.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/digital-marketing/diaa-al-awady-influence-contemporary-thought.html</loc>
+    <lastmod>2026-09-16T03:29:38.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/digital-marketing/diaa-al-awady-awards-recognitions.html</loc>
+    <lastmod>2026-09-16T03:29:30.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/comics-animation/kazimieras-prapuolenis-cartooning-contributions.html</loc>
+    <lastmod>2026-09-16T03:29:23.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/digital-marketing/diaa-al-awady-early-life-education.html</loc>
+    <lastmod>2026-09-16T03:22:07.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/digital-marketing/diaa-al-awady-professional-achievements.html</loc>
+    <lastmod>2026-09-16T03:21:53.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/digital-marketing/diaa-al-awady-contributions-disease-control.html</loc>
+    <lastmod>2026-09-16T03:21:43.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/comics-animation/kazimieras-prapuolenis-insights-lessons.html</loc>
+    <lastmod>2026-09-16T03:09:54.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
