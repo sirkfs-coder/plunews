@@ -19,6 +19,34 @@
   </url>
 
   <url>
+    <loc>https://plunews.com/category/mindfulness-music/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/music/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/mindfulness/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/perception/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://plunews.com/category/writing-tools/</loc>
     
     <changefreq>weekly</changefreq>
@@ -324,6 +352,48 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/mindfulness-music/sense-field-philosophy-origins.html</loc>
+    <lastmod>2026-09-16T10:15:42.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/mindfulness-music/sense-field-eastern-spiritual-traditions.html</loc>
+    <lastmod>2026-09-16T10:15:30.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/mindfulness-music/sense-fields-human-perception.html</loc>
+    <lastmod>2026-09-16T10:15:22.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/mindfulness-music/modern-scientific-sense-fields.html</loc>
+    <lastmod>2026-09-16T10:15:09.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/mindfulness-music/practical-exercises-sense-field.html</loc>
+    <lastmod>2026-09-16T10:15:02.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/mindfulness-music/sense-field-meaning-uses.html</loc>
+    <lastmod>2026-09-16T07:12:02.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
