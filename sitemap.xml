@@ -19,6 +19,34 @@
   </url>
 
   <url>
+    <loc>https://plunews.com/category/missing-persons/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/community-support/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/search-tips/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/family-resources/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://plunews.com/category/mindfulness-music/</loc>
     
     <changefreq>weekly</changefreq>
@@ -352,6 +380,13 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/missing-persons/disappearance-noah-wood-mystery.html</loc>
+    <lastmod>2026-09-17T04:22:20.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
