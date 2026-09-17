@@ -19,6 +19,90 @@
   </url>
 
   <url>
+    <loc>https://plunews.com/category/pro-wrestling/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/aew/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/wrestling-roster/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/personnel/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/tropical-plants/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/native-flora/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/plant-conservation/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/field-guide/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/local-sports/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/football-clubs/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/community-sports/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/club-membership/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://plunews.com/category/education-trends/</loc>
     
     <changefreq>weekly</changefreq>
@@ -408,6 +492,83 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/pro-wrestling/aew-personnel-list-roles.html</loc>
+    <lastmod>2026-09-17T13:28:43.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/tropical-plants/flora-samoa-native-plants.html</loc>
+    <lastmod>2026-09-17T12:13:15.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/tropical-plants/endemic-plant-species-samoa.html</loc>
+    <lastmod>2026-09-17T12:13:08.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/tropical-plants/medicinal-plants-samoan-medicine.html</loc>
+    <lastmod>2026-09-17T12:13:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/tropical-plants/samoa-rainforest-trees-shrubs.html</loc>
+    <lastmod>2026-09-17T12:12:51.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/tropical-plants/coastal-mangrove-plants-samoa.html</loc>
+    <lastmod>2026-09-17T12:12:40.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/tropical-plants/threatened-endangered-plants-samoa.html</loc>
+    <lastmod>2026-09-17T12:12:11.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/tropical-plants/cultural-significance-plants-samoa.html</loc>
+    <lastmod>2026-09-17T12:12:02.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/tropical-plants/invasive-plant-species-samoa-ecosystems.html</loc>
+    <lastmod>2026-09-17T12:11:56.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/tropical-plants/wildflowers-samoa-identification-habitats.html</loc>
+    <lastmod>2026-09-17T12:11:49.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/local-sports/sorell-football-club-guide.html</loc>
+    <lastmod>2026-09-17T12:11:36.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
