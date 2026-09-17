@@ -19,6 +19,34 @@
   </url>
 
   <url>
+    <loc>https://plunews.com/category/education-trends/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/school-advice/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/parent-tips/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/student-guides/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://plunews.com/category/missing-persons/</loc>
     
     <changefreq>weekly</changefreq>
@@ -380,6 +408,48 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/education-trends/education-amaravati-insights.html</loc>
+    <lastmod>2026-09-17T06:53:12.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/education-trends/top-schools-amaravati-guide.html</loc>
+    <lastmod>2026-09-17T06:53:03.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/education-trends/higher-education-amaravati-opportunities.html</loc>
+    <lastmod>2026-09-17T06:52:56.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/education-trends/government-education-initiatives-amaravati.html</loc>
+    <lastmod>2026-09-17T06:52:46.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/education-trends/international-schools-curricula-amaravati.html</loc>
+    <lastmod>2026-09-17T06:52:31.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/education-trends/vocational-skill-development-amaravati.html</loc>
+    <lastmod>2026-09-17T06:52:20.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
