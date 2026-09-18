@@ -19,6 +19,62 @@
   </url>
 
   <url>
+    <loc>https://plunews.com/category/wrestling-promotions/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/indie-wrestling/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/socal-wrestling/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/wrestling-fans/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/local-sports/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/football-clubs/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/community-sports/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/category/club-membership/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://plunews.com/category/pro-wrestling/</loc>
     
     <changefreq>weekly</changefreq>
@@ -69,34 +125,6 @@
 
   <url>
     <loc>https://plunews.com/category/field-guide/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://plunews.com/category/local-sports/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://plunews.com/category/football-clubs/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://plunews.com/category/community-sports/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://plunews.com/category/club-membership/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -492,6 +520,139 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/wrestling-promotions/empire-wrestling-federation-socal-impact.html</loc>
+    <lastmod>2026-09-18T02:29:52.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/local-sports/history-sorell-football-club.html</loc>
+    <lastmod>2026-09-18T02:25:46.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/local-sports/sorell-football-club-players-coaches.html</loc>
+    <lastmod>2026-09-18T02:25:37.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/local-sports/sorell-football-club-facilities.html</loc>
+    <lastmod>2026-09-18T02:25:28.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/local-sports/community-engagement-junior-programs-sorell.html</loc>
+    <lastmod>2026-09-18T02:25:16.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/local-sports/sorell-football-club-rivalries-matches.html</loc>
+    <lastmod>2026-09-18T02:25:05.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/pro-wrestling/aew-wrestlers-roster-division.html</loc>
+    <lastmod>2026-09-18T02:24:57.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/pro-wrestling/aew-broadcast-team-announcers-commentators.html</loc>
+    <lastmod>2026-09-18T02:24:49.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/wrestling-promotions/ewf-major-events-annual-shows.html</loc>
+    <lastmod>2026-09-18T02:24:41.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/wrestling-promotions/training-development-empire-wrestling-school.html</loc>
+    <lastmod>2026-09-18T02:24:31.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/wrestling-promotions/empire-wrestling-federation-socal.html</loc>
+    <lastmod>2026-09-18T02:24:16.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/wrestling-promotions/empire-wrestling-federation-history-founding.html</loc>
+    <lastmod>2026-09-18T02:23:56.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/wrestling-promotions/notable-wrestlers-empire-wrestling-federation.html</loc>
+    <lastmod>2026-09-18T02:23:42.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/pro-wrestling/aew-referees-profiles-roles.html</loc>
+    <lastmod>2026-09-18T01:54:24.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/pro-wrestling/aew-coaches-producers-staff.html</loc>
+    <lastmod>2026-09-18T01:53:49.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/pro-wrestling/former-aew-personnel-departures-alumni.html</loc>
+    <lastmod>2026-09-18T01:53:40.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/pro-wrestling/aew-tag-teams-stables-factions.html</loc>
+    <lastmod>2026-09-18T01:53:31.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/pro-wrestling/aew-management-executives-decision-makers.html</loc>
+    <lastmod>2026-09-18T01:53:22.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://plunews.com/pro-wrestling/aew-womens-division-key-wrestlers.html</loc>
+    <lastmod>2026-09-18T01:53:14.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
